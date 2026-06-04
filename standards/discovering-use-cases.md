@@ -155,7 +155,7 @@ That is in fact something I forgot to touch up above - You might not even need t
 
 Intentions nonetheless in either should be clear. How much clarity? Good question, but if you walk that tightrope effectively, it'll do much better than just going in, guns-ablazing all the time.
 
-# Fourth: Test & Verify (Please!!!)
+# Fifth: Test & Verify (Please!!!)
 
 * Does it work?
 * Are you sure?
