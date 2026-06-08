@@ -68,4 +68,21 @@ I have a strong feling this will break down into smaller files later. Will I tal
 
 This essentially is the summary of what [The Tech Report](#the-tech-report) is constantly pumping out, except his journalism is shared with Bloomberg
 
-https://www.youtube.com/watch?v=zbKDmkJPVvI
+https://youtu.be/zbKDmkJPVvI
+
+## The brain eating machines
+
+From the Channel - Emergent Garden
+
+This is an interesting video where there's creative AI being used to errode human skills, relationships and other things.
+A big premise here is that, without practicing things, that stuff becomes weak. There's a high suggestion to continue building such skills, despite everything being able to be created on a whim.
+
+Paraphrasing:
+
+> Craft is slow, and grueling, and there's nothing quite like it.
+
+It also talks about the very common (right now) situation where there's a lot of low-effort content that is designed to provide dopamine over actual value, basically like sugar.
+
+The author himself uses models to do things as well, so he tries to remain grounded on where we can go.
+
+https://youtu.be/kVjhV-In25c
