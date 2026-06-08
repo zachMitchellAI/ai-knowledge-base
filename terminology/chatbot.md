@@ -23,7 +23,7 @@ Chatbots as a general term has been defined as a program emulating human respons
     * There was also an app where it was entirely possible to train a custom cleverbot "model" directly on the phone, through that response-mirroring technique.
 * [Siri, Cortana, and Google Assistant](https://en.wikipedia.org/wiki/Virtual_assistant) were a different approach and take on parsing text, but this time for productivity and getting things done
     * In Siri's case, there are plenty of pre-defined commands and keywords to trigger something for it to do, such as reading a note, checking the weather, getting directions to a coffeeshop and more
-    * Cortana and google assistant worked similarly, though the dynamic of semantics & chained inferrenc were also in play. In other words, words and what they meant played a role besides trying to pre-define everything. Follow-up responses were also possible, for example "What is the statue of liberty?", then, "how do I get there from here?".
+    * Cortana and google assistant worked similarly, though the dynamic of semantics & chained inferrence were also in play. In other words, **words** and what they meant played a role besides trying to pre-define everything. Follow-up responses were also possible, for example "What is the statue of liberty?", then, "how do I get there from here?".
 * [Wolfram Alpha](https://www.wolframalpha.com/) isn't a chatbot, but does use human language to parse information in a clever way. Questions that can be parsed range from simple math, to more unique questions (How often are kids named "Emily"?)
     * Wolfram alpha also has an [MCP Server](https://www.wolfram.com/artificial-intelligence/mcp-service/) !
 
