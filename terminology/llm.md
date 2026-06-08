@@ -13,7 +13,7 @@ A Large Language Model - it's purpose is to generate useful text-based output ba
 
 LLMs have a vast range of uses. While they can be used for a lot of things, to find a dedicated use-case takes a lot of trial and error.
 
-Near the start of the AI-Adventure, [Chatbots](./chatbot.md) were the very easy cookie-cutter implementation. Though, the noevelty of this has worn off in modern day if the user-case is *purely* just a chatbot with basic information.
+Near the start of the AI-Adventure, [chatbots](./chatbot.md) were the very easy cookie-cutter implementation. Though, the noevelty of this has worn off in modern day if the user-case is *purely* just a chatbot with basic information.
 
 As the industry has grown, more methods have appeared as [agentic](./agent.md) use-cases. Examples include:
 

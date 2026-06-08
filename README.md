@@ -1,3 +1,13 @@
+## Quick Reference
+
+| Section | Description |
+|---------|-------------|
+| [Standards](./standards/) | Guidelines and best practices being learned in real-time |
+| [Stories](./stories/) | Personal experiences and narratives about AI exploration |
+| [Terminology](./terminology/) | Definitions and explanations of AI concepts |
+| [Resources](./resources/) | Curated links, videos, and reference materials |
+| [Commands](./.opencode/commands/) | Custom slash commands and skills for AI assistance |
+
 # AI Knowledge Base
 
 It's early June of '26 and the AI industry is changing a whole lot as I'm writing this. There's a ton of noise as a result, voices swaying left & right as to where you need to go. As I've gone through this dance personally, this noise feels like there's radical opinions on what should be done with this very large tool we've been assembling.
