@@ -86,3 +86,13 @@ It also talks about the very common (right now) situation where there's a lot of
 The author himself uses models to do things as well, so he tries to remain grounded on where we can go.
 
 https://youtu.be/kVjhV-In25c
+
+## "It Finally Happened" - Primagen
+
+Really good video about how ethics behind LLM coding are being challenged right now by major projects such as zig and FreeBSD
+
+In a nutshell, for the sake of education and strongly understood systems, both of these projects are not accepting AI contributions. I completely understand this, in fact someone's understanding can only create results of said understanding.
+
+Primagen also talks about something called `Vouch`, which sounds really interesting. Basically he talks about a system where people can be trusted to build with AI in ways that make sense
+
+https://www.youtube.com/watch?v=pkndFYSTr0Y
