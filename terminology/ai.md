@@ -6,7 +6,7 @@
 
 A generative [model](./model.md) that is capable of outputting a form of media "creatively".
 
-Examples that come to my mind:
+Examples that come to mind:
 
 1. [Large Language Models](./llm.md) (LLMs)
 2. [Stable Diffusion](./stable-diffusion.md) Models
