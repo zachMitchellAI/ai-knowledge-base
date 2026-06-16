@@ -11,6 +11,8 @@ That is indeed correct. This was before I did markdown for the primary method of
 
 I have the feeling this could be better automated through something like markitdown, which would help me skip the html step; though I don't have good reception right now so I didn't have a chance to download the edgecase. Should probably try that out next time!-->
 
+# Upgrading My Agentic Setup Like It's 2008 (Or, how I'm using LLMs on an old netbook)
+
 Yep, you read that correctly. And now you might be thinking to yourself "Ok... What? Why? How? Uh"
 
 Completely valid reaction, it's gonna be ok. We'll answer all of that, starting now!
