@@ -96,3 +96,36 @@ In a nutshell, for the sake of education and strongly understood systems, both o
 Primagen also talks about something called `Vouch`, which sounds really interesting. Basically he talks about a system where people can be trusted to build with AI in ways that make sense
 
 https://www.youtube.com/watch?v=pkndFYSTr0Y
+
+
+## I guess we're writing loops now?
+
+Theo t3
+
+Very fascinating take on solving code issues. The video itself goes over the concept of agentic looping, in other words a way to have agents create their own coding & feedback loops
+
+* an agent begins to solve a problem
+* commits code to a branch & creates a PR
+* subsequent agents self-review the code and *another* agent goes back to fix things
+* This loop recurses upon itself until there are no more changes that the review agent requires (even after several rounds of PRs)
+* Repeat based on phases of the problem being solved (phase 1, phase 2, phase 3), with each of *those* having their own loop
+
+Costly? Yes. Impressive? Yes.
+
+https://youtube.com/watch?v=iJVJwmCKW9o
+
+These problems are particularly interesting because they try to tackle the ambiguity issue of problem solving itself with code.
+
+Below I'd actually like to share a *different* side of the equation too
+
+## Stop making models bigger, make them behave
+
+Kobie Crawford
+
+I really appreciate this take here - a lot of people are making use of > 500B param models. However this person points out that it's possible to specialize a model with specific training. By doing this, a 4B parameter model can outpace tasks that a very large model can take.
+
+It's being able to harness the usefullness of models, while optimizing them for well-defined, concrete tasks. It plays on another level over just simply a harness. The context is instead baked in, in contrast to being tacked-on. (long-term / short-term?)
+
+There are some places here that talk about training a model as well. It talked about being able to train a model for 500$; which is fascinating.
+
+https://youtube.com/watch?v=TNwJ1LMiENk
