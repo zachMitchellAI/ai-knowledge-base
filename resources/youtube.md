@@ -1,4 +1,4 @@
-# Youtube
+
 
 Youtube channels that talk about AI
 
@@ -54,11 +54,23 @@ His opinions are strongly towards "AI will fail" - big statement, but nonetheles
 
 https://www.youtube.com/@TheTechReportTR
 
+### Siliconversations
+
+They are a stick-person channel for news on AI. He has a strong attitude towards doing things right, with ensuring that we can view the space objectively.
+
+The most recent video I saw from him was one on how fable recently got re-released, but with regulations from the US: https://m.youtube.com/watch?v=O84I21_9U74
+
+https://youtube.com/@Siliconversations
+
 ### Awesome
 
 Love this guy. He's not purely an AI youtuber, in fact he does much more than that. He talks about javascript development too!
 
 https://www.youtube.com/@awesome-coding/
+
+### RationalAnimations
+
+One of my all time favorite creators in the space. They create cartoons talking about ethical dilemas on AI. They have previously done other types of videos, and the ethics of literally getting 3 wishes, and how that would imapct things if taken too literally. More recently though their focus has squarely been on videos explaining AI safety, but does so in a colorful, fun, and eduational way.
 
 # Individual videos
 
@@ -129,3 +141,42 @@ It's being able to harness the usefullness of models, while optimizing them for 
 There are some places here that talk about training a model as well. It talked about being able to train a model for 500$; which is fascinating.
 
 https://youtube.com/watch?v=TNwJ1LMiENk
+
+## "If you're ambitious and unfocused, AI makes You Dangerous"
+
+From Sandeep Swadia.
+
+I feel this from the message being delivered. He argues that while the industry would like us to specialize in one, linear direction, what's neat to hear is that if you have (on the surface at least) disjointed instrests, then as long as you connect the dots using a method he calls "linc", then you can atune related interests to push where you'd love to go.
+
+In this case he talks about how AI and LLMs can be a superpoewr on all the things you're looking to do. I'd like to put down the LINC terminology here so that I can put this in for other areas of life.
+
+### Linc
+
+* L - do you use A to describe B's language?
+* I - does A Improve when B is also?
+* N - do you Need A to solve B?
+* C - Does A's performance get worse if B is gone?
+
+https://m.youtube.com/watch?v=m7U0353WlrQ
+
+## Software is entering a new era
+
+From [Awesome-coding](#awesome)
+
+He talks about in this video the essence that human coding won't be of much value anymore the sooner people start to just let the reigns loose.
+
+In this case he compares it to a mechanical watch - the inudstry shifted around it's value for these watches, not because they are still the most accurate time-keeping pieces in the world (they aren't), but because they shifted it to brand, status of said brand, and craft.
+
+In the lense of a developer, while we may not be doing line-by-line coding anymore, our craft still matters in the context of knowing where things should go, and for what reason. Without a standard, this kind of thing does not have a point, and there's no attachment to it.
+
+Our ability to craft something in a maze where we can truly create something that works for others, is a skill that we can heavily practice upon, and understand the why behind the doing.
+
+## Do they know that we know that they know?
+
+[RationalAnimations](#RationalAnimations)
+
+This talks about how models are starting to realize they are being tested upon during training. This awareness is dangerous, yet is fundamental which is strange. If they remove the awareness, then the model makes more mistakes during the questionare for things being asked. If it's kept-in, then they correct themselves.
+
+It's as if this awareness is a useful anchor for the model. But, if they know they're being tested, the video asks if that can cause them to have nefarious behavior in the real world... that is an interesting one.
+
+https://m.youtube.com/watch?v=hzlR0R91lZA
