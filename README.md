@@ -7,6 +7,7 @@
 | [Terminology](./terminology/) | Definitions and explanations of AI concepts |
 | [Resources](./resources/) | Curated links, videos, and reference materials |
 | [Commands](./.opencode/commands/) | Custom slash commands and skills for AI assistance |
+| [Skills](./.opencode/skills/) | Skills that may assist in niche categories of LLM work |
 
 # AI Knowledge Base
 
