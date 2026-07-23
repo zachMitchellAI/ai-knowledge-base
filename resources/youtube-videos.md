@@ -1,88 +1,23 @@
-
-
-Youtube channels that talk about AI
-
-## Technique
-
-These are people that are in the weeds with AI, or have an ear on the floor with people that are developing with it.
-
-### Nate B Jones
-
-Nate speaks like a coach to people who are on the edge of AI. His favorite models to talk abut at least from my personal memory are claude models
-
-https://www.youtube.com/@NateBJones
-
-### Theo - t3.gg
-
-He creates a space to talk about AI through the lense of a discussion with co-workers and personal experience
-
-https://www.youtube.com/@t3dotgg
-
-### The primagen
-
-Talks a little about everything; he hosts his own twitch channel, with these being interesting clips about various happenings in the AI space
-
-As I'm writing this in real time it looks like he does other things outside of AI too
-
-- https://www.youtube.com/@ThePrimeTimeagen
-- https://www.youtube.com/@ThePrimeagenHighlights
-
-### The Neuron
-
-They have a dedicated website, along with this youtube channel - they find the scoup on some very niche sources with both the current position of AI, and the future of it
-
-- https://www.youtube.com/@theneuronai
-- https://www.theneuron.ai/newsletter
-
-### Two Minute Papers
-
-https://www.youtube.com/@TwoMinutePapers
-
-They talk about large language models in great detail, and how scientists and others are either putting it to work, or discovering common patterns & pitfalls.
-
-"What a time to be alive!"
-
-## Objective
-
-People that are looking at the numbers & finances, asking "why". They may or may not like ai... but either way display a very blunt opinion and understanding.
-
-### The Tech Report
-
-They are looking at the industry with the lense of finance & stocks. A lot of what I hear from them stems on data centers not being built, the business model behind OpenAI and Anthropic, and what would happen to companies like Oracle, should they choose to continue down this path of an alleged AI Bubble
-
-His opinions are strongly towards "AI will fail" - big statement, but nonetheless shares big takes on the money side of it all.
-
-https://www.youtube.com/@TheTechReportTR
-
-### Siliconversations
-
-They are a stick-person channel for news on AI. He has a strong attitude towards doing things right, with ensuring that we can view the space objectively.
-
-The most recent video I saw from him was one on how fable recently got re-released, but with regulations from the US: https://m.youtube.com/watch?v=O84I21_9U74
-
-https://youtube.com/@Siliconversations
-
-### Awesome
-
-Love this guy. He's not purely an AI youtuber, in fact he does much more than that. He talks about javascript development too!
-
-https://www.youtube.com/@awesome-coding/
-
-### RationalAnimations
-
-One of my all time favorite creators in the space. They create cartoons talking about ethical dilemas on AI. They have previously done other types of videos, and the ethics of literally getting 3 wishes, and how that would imapct things if taken too literally. More recently though their focus has squarely been on videos explaining AI safety, but does so in a colorful, fun, and eduational way.
-
-# Individual videos
+# Youtube Videos
 
 I have a strong feling this will break down into smaller files later. Will I talk about specific videos here? I'm not sure; if there's something big that jumps over my way, I'll view it and put down my notes if the impact is large
 
 ## Anthopic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron
 
+| Anthopic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/zbKDmkJPVvI/hqdefault.jpg)|
+|https://youtu.be/zbKDmkJPVvI|
+
 This essentially is the summary of what [The Tech Report](#the-tech-report) is constantly pumping out, except his journalism is shared with Bloomberg
 
-https://youtu.be/zbKDmkJPVvI
 
 ## The brain eating machines
+
+| The brain eating machines |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/kVjhV-In25c/hqdefault.jpg)|
+|https://youtu.be/kVjhV-In25c|
 
 From the Channel - Emergent Garden
 
@@ -97,9 +32,14 @@ It also talks about the very common (right now) situation where there's a lot of
 
 The author himself uses models to do things as well, so he tries to remain grounded on where we can go.
 
-https://youtu.be/kVjhV-In25c
+
 
 ## "It Finally Happened" - Primagen
+
+| "It Finally Happened" - Primagen |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/pkndFYSTr0Y/hqdefault.jpg)|
+|https://youtu.be/pkndFYSTr0Y|
 
 Really good video about how ethics behind LLM coding are being challenged right now by major projects such as zig and FreeBSD
 
@@ -107,10 +47,15 @@ In a nutshell, for the sake of education and strongly understood systems, both o
 
 Primagen also talks about something called `Vouch`, which sounds really interesting. Basically he talks about a system where people can be trusted to build with AI in ways that make sense
 
-https://www.youtube.com/watch?v=pkndFYSTr0Y
+
 
 
 ## I guess we're writing loops now?
+
+| I guess we're writing loops now? |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/iJVJwmCKW9o/hqdefault.jpg)|
+|https://youtu.be/iJVJwmCKW9o|
 
 Theo t3
 
@@ -124,13 +69,18 @@ Very fascinating take on solving code issues. The video itself goes over the con
 
 Costly? Yes. Impressive? Yes.
 
-https://youtube.com/watch?v=iJVJwmCKW9o
+
 
 These problems are particularly interesting because they try to tackle the ambiguity issue of problem solving itself with code.
 
 Below I'd actually like to share a *different* side of the equation too
 
 ## Stop making models bigger, make them behave
+
+| Stop making models bigger, make them behave |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/TNwJ1LMiENk/hqdefault.jpg)|
+|https://youtu.be/TNwJ1LMiENk|
 
 Kobie Crawford
 
@@ -140,9 +90,14 @@ It's being able to harness the usefullness of models, while optimizing them for 
 
 There are some places here that talk about training a model as well. It talked about being able to train a model for 500$; which is fascinating.
 
-https://youtube.com/watch?v=TNwJ1LMiENk
+
 
 ## "If you're ambitious and unfocused, AI makes You Dangerous"
+
+| "If you're ambitious and unfocused, AI makes You Dangerous" |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/m7U0353WlrQ/hqdefault.jpg)|
+|https://youtu.be/m7U0353WlrQ|
 
 From Sandeep Swadia.
 
@@ -157,9 +112,14 @@ In this case he talks about how AI and LLMs can be a superpoewr on all the thing
 * N - do you Need A to solve B?
 * C - Does A's performance get worse if B is gone?
 
-https://m.youtube.com/watch?v=m7U0353WlrQ
+
 
 ## Software is entering a new era
+
+| Software is entering a new era |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/X8l_Xv_Xv_X/hqdefault.jpg)|
+|https://youtu.be/X8l_Xv_Xv_X|
 
 From [Awesome-coding](#awesome)
 
@@ -171,7 +131,13 @@ In the lense of a developer, while we may not be doing line-by-line coding anymo
 
 Our ability to craft something in a maze where we can truly create something that works for others, is a skill that we can heavily practice upon, and understand the why behind the doing.
 
+
 ## Do they know that we know that they know?
+
+| Do they know that we know that they know? |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/hzlR0R91lZA/hqdefault.jpg)|
+|https://youtu.be/hzlR0R91lZA|
 
 [RationalAnimations](#RationalAnimations)
 
@@ -179,4 +145,55 @@ This talks about how models are starting to realize they are being tested upon d
 
 It's as if this awareness is a useful anchor for the model. But, if they know they're being tested, the video asks if that can cause them to have nefarious behavior in the real world... that is an interesting one.
 
-https://m.youtube.com/watch?v=hzlR0R91lZA
+
+
+# You need to read less code (hear me out)
+
+| You need to read less code (hear me out) |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/434cG4g5KLE/hqdefault.jpg)|
+|https://youtu.be/434cG4g5KLE|
+
+( t3dotgg )
+
+*Spicy* take with the title, but what he's saying is interesting.
+
+I'm personally on the side of: read an understand each aspect of the code best as possible. Yet here, his argument here is that, by *only* doing this, you're limiting potential and not finding ways to get messy in order to experiment, learn & fix things.
+
+The point being made to me is that, importance of code is going to be on a spectrum. I remember my manager once said "It's ok, we're writing forms software, we're not curing cancer". Makes sense to me in that regard. It's worth understand the impact of code, how much should be viewed and parsed and to what level.
+
+For me on production grade stuff, there's high importance to me to understand very precisely how something works, I'll try to generate explainer content, break something by hand, etc. Yet there's nothing stopping you from using quick code generation to solve problems around you when it's not mission critical. It needs to be strongly objective though. Payment processing for example would be an example on the top of my head where you seriously don't wanna get it wrong.
+
+
+
+# You won't fall behind
+
+| You won't fall behind |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/0F5zG1RQ4Ig/hqdefault.jpg)|
+|https://youtu.be/0F5zG1RQ4Ig|
+
+(ThePrimeTimeagen)
+
+Primagen here talks about how he worked tirelessly beyond work hours each day. Yet, there are going to be off-days when things will be ok. There might be worry on if skills themselves will expire. However, the pace of LLM devlopment has been substantially quick. One could argue that you won't *have*  to be left behind in this current age because there's always something new that will come & go.
+
+Anytime to jump in is going to be cruicial when solving probelms on the *existing* landscape. which may therefore mean anytime to dive into things is a good one, it's worth applying the correct problems to the current situations.
+
+
+
+
+# Can AI come up with original Ideas?
+
+| Can AI come up with original Ideas? |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/Z7dH_Cxx75g/hqdefault.jpg)|
+|https://youtu.be/Z7dH_Cxx75g|
+
+( RationalAnimations )
+
+At the end of the day, basd on it's undertanding (existing human knowledge), the emulation of such, by synthesizing this, it *can* find things new. One neat example (which I forget if it's in this video), is an AI solving the infamous "strawberry" character count problem. It has no concept of words, just tokens, but for it to figure this out, it wrote it's own python code to input it's own train of thought, and grab the length of characters in order to figure out "Hey, will this text break to a new line?".
+
+Very fascinating stuff.
+
+Ammendment: It very much talks about the the "blur" between new and old ideas. Humans are also doing this all the time, essentially recycling what's built on top of what the last person did. Not necessarily bad, but also it's an every-evolving process. Further, the concept of "new" might feel novel when talking to a model, but also it's the fact they have consumed large copious amounts of info to begin with.
+

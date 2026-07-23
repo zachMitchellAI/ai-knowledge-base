@@ -17,6 +17,22 @@ https://modelcontextprotocol.io/
 - [Awesome MCP Servers](https://mcpservers.org/)
 - [Github's repository](https://github.com/mcp)
 
+# Install them
+
+- [MCP.sh](https://mcpm.sh/)
+- [Opencode's docs](https://opencode.ai/docs/mcp-servers/)
+
+For opencode specifically:
+
+```bash
+# Interactive
+opencode mcp add
+
+# Authenticate oauth-based ones:
+
+opencode mcp auth name-of-mcp
+```
+
 # Favorite MCP Servers
 
 ## All-around use
@@ -29,6 +45,7 @@ https://modelcontextprotocol.io/
 - [markitdown](https://github.com/mcp/microsoft/markitdown)
 - [wolfram alpha](https://www.wolfram.com/artificial-intelligence/mcp-service/wolfram-mcp-cloud/)
 - [wikipedia](https://github.com/Rudra-ravi/wikipedia-mcp)
+- [openrouter (find models!)](https://openrouter.ai/blog/announcements/openrouter-mcp-server/)
 
 ## Web browsing
 
