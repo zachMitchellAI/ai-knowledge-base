@@ -12,11 +12,20 @@ Output is **exclusively for `youtube-channels.md`**. Do NOT edit `./youtube-vide
 # Steps
 
 1. Identify YouTube channel links located under each listed header.
-2. For each channel, obtain the PFP URL by running the following command in the terminal (replace `@RationalAnimations` with the actual channel handle):
+2. For each channel, obtain the PFP URL (if not present) by running the following command in the terminal (replace `@RationalAnimations` with the actual channel handle):
    `curl -s "https://www.youtube.com/@Handle" | grep -oP 'https://yt3\.googleusercontent\.com/[^" *=]+(?=.*AVATAR_SIZE_XL)' | head -n 1`
 3. Link the resulting image URL directly in the document. **Do not save the image file locally.**
-    - Links for the PFP should be right after the header of the associated youtube channel
-4. Repeat for all channels until all have a valid PFP link.
+    - Links for the PFP should be right after the header of the associated youtube channel through the following format:
+
+```md
+| <Channel Name> |
+|-------------|
+|![Thumbnail](https://yt3.googleusercontent.com/<...>)|
+|https://youtu.be/@RationalAnimations|
+```
+
+4. If the channel link is present in the section, but missing from the table, move it to the table
+5. Repeat for all channels until all have a valid PFP link.
 
 # Avoid:
 
