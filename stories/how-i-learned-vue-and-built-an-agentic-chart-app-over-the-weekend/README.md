@@ -25,6 +25,8 @@ brushing off old techniques, learning ton of new ones, and pulling
 that all in together for a learning opportunity that rocked my world
 and helped introduce me to a world of cool new abilities.
 
+*[Disclaimer: this page is a technical one! The goal here will be to share the experience from a developer perspective]*
+
 ## Welcome to the wolfram chart viewer
 
 ![A chart viewer composed of a pastel bar graph. The graph shows protein content of steak versus chicken, pork and polluck ](src/0.png)
