@@ -197,3 +197,31 @@ Very fascinating stuff.
 
 Ammendment: It very much talks about the the "blur" between new and old ideas. Humans are also doing this all the time, essentially recycling what's built on top of what the last person did. Not necessarily bad, but also it's an every-evolving process. Further, the concept of "new" might feel novel when talking to a model, but also it's the fact they have consumed large copious amounts of info to begin with.
 
+# Stop Pretending You Understand Your Codebase
+
+| Stop Pretending You Understand Your Codebase |
+|-------------|
+|![Thumbnail](https://i.ytimg.com/vi/5KvY8CnBB3w/hqdefault.jpg)|
+|https://www.youtube.com/watch?v=5KvY8CnBB3w|
+|https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/|
+
+( Theo - t3.gg )
+
+Really good stuff.
+
+This is Theo viewing a blog post from "Sean Goedecke". The premise that hit me: a split between the engineering purists / hobbyists, and business level coding.
+
+These two distinct groups fundamentally believe in different ways of building apps, for different reasons.
+
+* Memorization, full intricate understanding of code, whether that be line-by-line / file-by-file. Each function meticulously crafted to be *perfect* - https://www.seangoedecke.com/pure-and-impure-engineering/
+* Messy, large-scale code. 10's of thousands, or 100K of code at times. Codebases 10-15 years old.
+
+To me, that falls on a scale (and it sounds like the blog-poster thinks that too). When I started, the first one was very much the mindset, and I fully understand this! This was a mental switch that needed to be changed, and is re-considered when people have to scale & grow.
+
+Yet, there is nothing inherently wrong with focusing on efficiency and accuracy. The two camps may represent samller codebases and large-scale applications respectively; both require different methods of solving them.
+
+On large, complex apps, the main idea is that someone has an intuition on where something is wrong, or how to scale it up with the existing knowledge. If you understand that, then the problems can scale *down* accordingly. Not everyone has every single line of code plopped into their head, that part is impossible at large scales. When apps get bigger, it's the how that matters.
+
+---
+
+The outcome for me, is something I've already been doing - retain those small, precise apps, while also understanding the big, complex ones. Nothing wrong in my opinion to exercise both scales, because both help each-other out.
